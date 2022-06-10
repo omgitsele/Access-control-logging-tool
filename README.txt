@@ -1,5 +1,7 @@
 Dimitris Eleftheriadis 2015030067
 
+The "Assignement 3" pdf has all the necessary information about what this project does.
+
 run "make" to build the projects and "make run" to run logger.so and test_aclog.c . It will also create some of the nescessary files.
 
 The code has comments and is pretty self explanatory.
